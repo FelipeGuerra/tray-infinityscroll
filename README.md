@@ -3,7 +3,7 @@ Infinity product scroll for Tray stores
 
 ## Usage
 
-```sh
+```html
 <script src="{{ asset('js/tray-smartcart.js') }}"></script>
 
 <div class="products-grid-footer col-xs-12">
